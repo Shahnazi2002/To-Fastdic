@@ -1,0 +1,31 @@
+{
+
+  "manifest_version": 2,
+  "name": "To Fastdic",
+  "short_name": "Fastdic",
+  "version": "1.0",
+
+  "description": "Define words on fastdic.com",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "permissions": [
+    "activeTab",
+    "contextMenus",
+    "webNavigation"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/border-48.png",
+    "default_title": "Fastdic"
+  },
+
+  "background": {
+    "scripts": [
+      "toFastdic.js"
+    ]
+  }
+
+}

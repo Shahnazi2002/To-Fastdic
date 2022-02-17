@@ -1,6 +1,6 @@
 var _browser = chrome;
 
-// New Tab
+// New tab
 function openNewTab (url) {
   _browser.tabs.create({
     url: url
@@ -14,15 +14,14 @@ _browser.contextMenus.create({
   contexts: ["selection"]
 });
 
-
-// To Fastdic
 _browser.contextMenus.onClicked.addListener(function(info, tab) {
   var url = 'https://fastdic.com/word/' + info.selectionText;
   openNewTab(url);
 });
 
 
-// Toolbar Button
+
+// Toolbar button
 _browser.browserAction.onClicked.addListener(function () {
   openNewTab('https://fastdic.com');
 });

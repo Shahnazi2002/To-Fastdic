@@ -2,14 +2,13 @@
 
   "manifest_version": 2,
   "name": "To Fastdic",
-  "description": "A shortcut to access Persian explanations of English words.",
+  "description": "Define words on fastdic.com",
   "version": "1.1",
   "author": "Mohammad Shahnazi",
   "homepage_url": "https://github.com/shahnazi2002/to-fastdic",
 
   "icons": {
-    "48": "icons/icon-48.png",
-    "96": "icons/icon-96.png"
+    "48": "icons/icon-48.png"
   },
 
   "permissions": [
@@ -19,10 +18,7 @@
   ],
 
   "browser_action": {
-    "default_icon": {
-    "48": "icons/icon-48.png",
-    "96": "icons/icon-96.png"
-  },
+    "default_icon": "icons/icon-48.png",
     "default_title": "To Fastdic"
   },
 

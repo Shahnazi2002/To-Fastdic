@@ -2,10 +2,10 @@
 
   "manifest_version": 2,
   "name": "To Fastdic",
-  "short_name": "Fastdic",
-  "version": "1.0",
-
   "description": "Define words on fastdic.com",
+  "version": "1.1",
+  "author": "Mohammad Shahnazi",
+  "homepage_url": "https://github.com/shahnazi2002/to-fastdic",
 
   "icons": {
     "48": "icons/border-48.png"

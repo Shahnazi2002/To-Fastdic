@@ -12,4 +12,4 @@
 ![guide](https://github.com/Shahnazi2002/To-Fastdic/blob/master/guide/step-3.png?raw=true)
 4- بر روی Load Temporary Add-on کلیک کنید.<br/><br/>
 5- به محل فایل‌های دانلود شده در گام اول رفته و فایل manifest.json را انتخاب کنید.<br/><br/>
-6- اکنون اکستنشن To Fastdic بر روی مرورگر شما نصب شده و طبق راهنما، قابل استفاده میباشد.
+6- اکنون اکستنشن To Fastdic بر روی مرورگر شما نصب شده و طبق [راهنما](https://github.com/Shahnazi2002/To-Fastdic#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7)، قابل استفاده میباشد.

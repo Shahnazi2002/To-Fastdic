@@ -8,7 +8,7 @@
   "homepage_url": "https://github.com/shahnazi2002/to-fastdic",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/icon-48.png"
   },
 
   "permissions": [
@@ -18,8 +18,8 @@
   ],
 
   "browser_action": {
-    "default_icon": "icons/border-48.png",
-    "default_title": "Fastdic"
+    "default_icon": "icons/icon-48.png",
+    "default_title": "To Fastdic"
   },
 
   "background": {

@@ -5,5 +5,5 @@
 <br/><br/>![To Fastdic](https://github.com/Shahnazi2002/To-Fastdic/blob/master/screenshots/0.png?raw=true)
 
 # طریقه نصب در فایرفاکس
-1- فایل‌ها را دانلود کرده و یا [اینجا](https://github.com/Shahnazi2002/To-Fastdic/archive/refs/heads/master.zip) کلیک کنید.
+1- فایل‌ها را دانلود کرده و یا [اینجا](https://github.com/Shahnazi2002/To-Fastdic/archive/refs/heads/master.zip) کلیک کنید.<br/>
 2- در آدرس بار مرورگر، عبارت about:debugging را وارد کرده و اینتر را بزنید.
